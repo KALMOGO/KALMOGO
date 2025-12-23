@@ -11,8 +11,8 @@
 
 ### An AI engineering student focused on building reliable machine learning solutions for healthcare and data-driven systems.
 
-- 🌱 I’m currently strengthening my skills in **Machine Learning, Deep Learning, and Cloud fundamentals (AWS)**  
-- 💬 Ask me about **Python, Machine Learning, Data Science, or applied AI projects** — feel free to open an issue [here](https://github.com/KALMOGO/KALMOGO/issues)
+- 🌱 I’m currently deepening my knowledge in **Machine Learning, Deep Learning, and AI for healthcare applications** 
+- 💬 Ask me about **Python, Machine Learning, Data Science, or applied AI projects** — feel free to open an issue [here](https://github.com/KALMOGO?tab=repositories)
 
 <br>
 
