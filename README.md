@@ -42,10 +42,13 @@
 <br>
 
 <hr>
-##  Research Interests
+
+## Research Interests
 
 <br>
+
 - **Healthcare AI**
+  
 - **NLP**
   
 - **Knowledge Graphs**
