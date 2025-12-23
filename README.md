@@ -33,5 +33,5 @@
 
 <br>
 
-<br> <p align="center"> <img src="https://skillicons.dev/icons?i=python,r,django,flask,docker,pytorch,tensorflow,opencv" /> </p> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,postgres,aws" /> </p>
+<br> <p align="center"> <img src="https://skillicons.dev/icons?i=python,r,,pytorch,tensorflow,spacy,django,flask,docker,opencv" /> </p> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,postgres,aws" /> </p>
 
