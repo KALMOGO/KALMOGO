@@ -30,8 +30,8 @@
 
 <hr>
 
+<br>
 ### 🛠️ Languages and Tools
-
 <br>
 
 - **NLP & AI Libraries:** PyTorch · TensorFlow · spaCy · OpenCV
@@ -39,10 +39,15 @@
 - **Data & Tools:** Python · R · Docker · Git · Linux · AWS
 
 <br> <p align="center"> <img src="https://skillicons.dev/icons?i=python,r,,pytorch,tensorflow,spacy,django,flask,docker,opencv" /> </p> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,postgres,aws" /> </p>
+<br>
 
 ##  Research Interests
 
 <br>
-Healthcare AI · NLP · Knowledge Graphs · Semantic Web . One Health
+- Healthcare AI
+- NLP 
+- Knowledge Graphs 
+- Semantic Web 
+- One Health
 
 
