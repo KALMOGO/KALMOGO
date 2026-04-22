@@ -36,7 +36,7 @@
 
 - **NLP & AI Libraries:** PyTorch · TensorFlow · spaCy · OpenCV
 - **Web & APIs:** Django · Flask (REST APIs)  
-- **Data & Tools:** Python · R · Docker · Git · Linux · AWS
+- **Data & Tools:** Python · R · Docker · Git · Linux 
 
 <br> <p align="center"> <img src="https://skillicons.dev/icons?i=python,r,,pytorch,tensorflow,spacy,django,flask,docker,opencv" /> </p> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=git,linux,postgres,aws" /> </p>
 <br>
