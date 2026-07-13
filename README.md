@@ -115,7 +115,7 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 | | Institution | Year |
 |--|-------------|------|
 | 🎓 M2 AI for Public Health (AI4PH) | Aix-Marseille University, France | 2025–2026 |
-| 🎓 M2 Data Science *(mention Très Bien)* | Université Nazi BONI, Burkina Faso | 2022–2024 |
+| 🎓 M2 Data Science  | Université Nazi BONI, Burkina Faso | 2022–2024 |
 
 ---
 
