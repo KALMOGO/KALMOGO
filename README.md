@@ -77,7 +77,7 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 
 **Tools & Infrastructure**
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,aws" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,protegés" />
 </p>
 
 ---
