@@ -28,12 +28,12 @@
 
 I design and build practical AI systems, with experience spanning the full ML pipeline — from data collection and preprocessing to model deployment and evaluation.
 
-My background covers **NLP** (information extraction, LLMs, clinical text), **computer vision** (detection, recognition, generative models), and **knowledge representation** (ontologies, semantic web). I enjoy working on projects where AI solves concrete, real-world problems.
+My background covers **NLP** (information extraction, LLMs, clinical text), **computer vision** (detection, recognition, generative models), **knowledge representation** (ontologies, semantic web), and **web development** (Django, REST APIs, full-stack platforms). I enjoy working on projects where technology solves concrete, real-world problems.
 
 ```
-💼 Open to    : Data Scientist · ML Engineer · AI Engineer
+💼 Open to    : Data Scientist · ML Engineer · AI Engineer · Backend/Full-Stack Developer
 🔬 Also open  : PhD opportunities in applied AI
-🛠️ Key skills : Python · PyTorch · NLP · Computer Vision · Generative AI
+🛠️ Key skills : Python · PyTorch · NLP · Computer Vision · Generative AI · Django · REST APIs
 ```
 
 ---
@@ -49,6 +49,7 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 | [🧠 ML From Scratch](https://github.com/KALMOGO/python-ds-teaching) | Perceptron & Neural Network from scratch — delivered for Zindi Africa community | NumPy · Python |
 | [🧬 Bioinformatics App](https://github.com/KALMOGO/bioinformatics-streamlit-app) | DNA sequence alignment & phylogenetic tree (WPGMA from scratch) | Biopython · Streamlit |
 | [🎙️ PLAVIDA](https://github.com/KALMOGO/plavida) | Audio/video annotation platform for African languages (Springer publication) | Django · Ionic/Angular |
+| [🌐 UNB Web Platform](https://github.com/KALMOGO/unb-platform) | University website + annual report data submission platform for Université Nazi BONI | Django · Django REST Framework · PostgreSQL |
 
 ---
 
@@ -77,7 +78,7 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 
 **Tools & Infrastructure**
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,protegés" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,aws" />
 </p>
 
 ---
