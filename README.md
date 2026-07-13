@@ -43,6 +43,7 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [👤 Face Recognition Pipeline](https://github.com/KALMOGO/face-recognition-pipeline) | End-to-end face detection (MTCNN) + recognition (FaceNet embeddings) + Flask API | PyTorch · Flask · OpenCV |
+| [🖥️ RAG Computer Advisor](https://github.com/KALMOGO/computerWebsite) | AI-powered computer recommendation system — RAG pipeline (database + OpenAI GPT) + Django full-stack | Django · OpenAI · RAG |
 | [🎨 Medical GAN](https://github.com/KALMOGO/medical-gan) | GAN + Stable Diffusion for synthetic image generation + LoRA fine-tuning | PyTorch · Diffusers · HuggingFace |
 | [🏥 Clinical NLP Pipeline](https://github.com/KALMOGO/clinical-nlp-pipeline) | Structured extraction from 14k+ French clinical notes — **97% ICD-10 accuracy** | Django · BioMistral · Streamlit |
 | [🧬 CBAG](https://github.com/KALMOGO/cbag) | Consensus-based ontology alignment for One Health (25 ontologies, OAEI benchmark) | Python · Qwen3 · OWL |
@@ -81,16 +82,40 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 <img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,aws" />
 </p>
 
+**Databases & Data Engineering**
+
+`PostgreSQL` · `MySQL` · `SQLite` · `MongoDB` · `SQL` · `Django ORM` · `SQLAlchemy`
+
 ---
 
-## 🎓 Education & Certifications
+## 🏆 Certifications
+
+<div align="center">
+
+### Applied Data Science Lab — WorldQuant University
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fa16e940-28e9-4b70-9725-0183a2aaaf8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+**Certified Skills :** Data Science · Data Visualization · MongoDB · Statistics · API Design · Machine Learning · Python · SQL
+
+---
+
+### Computer Vision Lab — WorldQuant University
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a1a6a88a-609a-4b7f-9250-24ac373ab8a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+**Certified Skills :** Artificial Intelligence · Deep Learning · Facial Recognition · GANs · Image Generation · Object Detection · OpenCV · PyTorch · Stable Diffusion · HuggingFace · Flask · YOLOv8 · Scikit-learn · Neural Networks
+
+</div>
+
+---
+
+
+
+## 🎓 Education
 
 | | Institution | Year |
 |--|-------------|------|
 | 🎓 M2 AI for Public Health (AI4PH) | Aix-Marseille University, France | 2025–2026 |
 | 🎓 M2 Data Science *(mention Très Bien)* | Université Nazi BONI, Burkina Faso | 2022–2024 |
-| 🏆 [Computer Vision Lab](https://www.credly.com/badges/a1a6a88a-609a-4b7f-9250-24ac373ab8a0) | WorldQuant University | 2026 |
-| 🏆 [Applied Data Science Lab](https://www.credly.com/badges/fa16e940-28e9-4b70-9725-0183a2aaaf8d) | WorldQuant University | 2025 |
 
 ---
 
