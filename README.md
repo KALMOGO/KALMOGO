@@ -79,7 +79,7 @@ Also open  : PhD opportunities in applied AI
 
 **Tools & Infrastructure**
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,aws" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres" />
 </p>
 
 **Databases & Data Engineering**
