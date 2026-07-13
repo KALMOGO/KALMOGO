@@ -31,9 +31,9 @@ I design and build practical AI systems, with experience spanning the full ML pi
 My background covers **NLP** (information extraction, LLMs, clinical text), **computer vision** (detection, recognition, generative models), **knowledge representation** (ontologies, semantic web), and **web development** (Django, REST APIs, full-stack platforms). I enjoy working on projects where technology solves concrete, real-world problems.
 
 ```
-💼 Open to    : Data Scientist · ML Engineer · AI Engineer · Backend/Full-Stack Developer
-🔬 Also open  : PhD opportunities in applied AI
-🛠️ Key skills : Python · PyTorch · NLP · Computer Vision · Generative AI · Django · REST APIs
+Open to    : Data Scientist · ML Engineer · AI Engineer · Backend/Full-Stack Developer
+Also open  : PhD opportunities in applied AI
+ Key skills : Python · PyTorch · NLP · Computer Vision · Generative AI · Django · REST APIs
 ```
 
 ---
@@ -42,15 +42,15 @@ My background covers **NLP** (information extraction, LLMs, clinical text), **co
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [👤 Face Recognition Pipeline](https://github.com/KALMOGO/face-recognition-pipeline) | End-to-end face detection (MTCNN) + recognition (FaceNet embeddings) + Flask API | PyTorch · Flask · OpenCV |
-| [🖥️ RAG Computer Advisor](https://github.com/KALMOGO/computerWebsite) | AI-powered computer recommendation system — RAG pipeline (database + OpenAI GPT) + Django full-stack | Django · OpenAI · RAG |
-| [🎨 Medical GAN](https://github.com/KALMOGO/medical-gan) | GAN + Stable Diffusion for synthetic image generation + LoRA fine-tuning | PyTorch · Diffusers · HuggingFace |
-| [🏥 Clinical NLP Pipeline](https://github.com/KALMOGO/clinical-nlp-pipeline) | Structured extraction from 14k+ French clinical notes — **97% ICD-10 accuracy** | Django · BioMistral · Streamlit |
-| [🧬 CBAG](https://github.com/KALMOGO/cbag) | Consensus-based ontology alignment for One Health (25 ontologies, OAEI benchmark) | Python · Qwen3 · OWL |
-| [🧠 ML From Scratch](https://github.com/KALMOGO/python-ds-teaching) | Perceptron & Neural Network from scratch — delivered for Zindi Africa community | NumPy · Python |
-| [🧬 Bioinformatics App](https://github.com/KALMOGO/bioinformatics-streamlit-app) | DNA sequence alignment & phylogenetic tree (WPGMA from scratch) | Biopython · Streamlit |
-| [🎙️ PLAVIDA](https://github.com/KALMOGO/plavida) | Audio/video annotation platform for African languages (Springer publication) | Django · Ionic/Angular |
-| [🌐 UNB Web Platform](https://github.com/KALMOGO/unb-platform) | University website + annual report data submission platform for Université Nazi BONI | Django · Django REST Framework · PostgreSQL |
+| [Face Recognition Pipeline](https://github.com/KALMOGO/face-recognition-pipeline) | End-to-end face detection (MTCNN) + recognition (FaceNet embeddings) + Flask API | PyTorch · Flask · OpenCV |
+| [RAG Computer Advisor](https://github.com/KALMOGO/computerWebsite) | AI-powered computer recommendation system — RAG pipeline (database + OpenAI GPT) + Django full-stack | Django · OpenAI · RAG |
+| [Medical GAN](https://github.com/KALMOGO/medical-gan) | GAN + Stable Diffusion for synthetic image generation + LoRA fine-tuning | PyTorch · Diffusers · HuggingFace |
+| [Clinical NLP Pipeline](https://github.com/KALMOGO/clinical-nlp-pipeline) | Structured extraction from 14k+ French clinical notes — **97% ICD-10 accuracy** | Django · BioMistral · Streamlit |
+| [CBAG](https://github.com/KALMOGO/cbag) | Consensus-based ontology alignment for One Health (25 ontologies, OAEI benchmark) | Python · Qwen3 · OWL |
+| [ML From Scratch](https://github.com/KALMOGO/python-ds-teaching) | Perceptron & Neural Network from scratch — delivered for Zindi Africa community | NumPy · Python |
+| [Bioinformatics App](https://github.com/KALMOGO/bioinformatics-streamlit-app) | DNA sequence alignment & phylogenetic tree (WPGMA from scratch) | Biopython · Streamlit |
+| [PLAVIDA](https://github.com/KALMOGO/plavida) | Audio/video annotation platform for African languages (Springer publication) | Django · Ionic/Angular |
+| [UNB Web Platform](https://github.com/KALMOGO/unb-platform) | University website + annual report data submission platform for Université Nazi BONI | Django · Django REST Framework · PostgreSQL |
 
 ---
 
